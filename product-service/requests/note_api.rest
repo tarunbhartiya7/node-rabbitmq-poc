@@ -1,0 +1,11 @@
+
+POST http://localhost:8080/product/buy
+Content-Type: application/json
+
+{
+    "ids": [1, 2, 3]
+}
+
+###
+
+
